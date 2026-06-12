@@ -13,6 +13,11 @@
       "name": "lesson-writer-plugin",
       "source": "./lesson-writer-plugin",
       "description": "주제 하나로 구조화된 강의안(학습목표·핵심개념·실습·요약·과제)을 한국어 마크다운으로 작성하는 플러그인"
+    },
+    {
+      "name": "econ-news-brief-plugin",
+      "source": "./econ-news-brief-plugin",
+      "description": "경제뉴스 RSS를 수집해 CSV로 정리하고 기업별 호재/악재 보고서를 만들어 Notion에 올리는 플러그인"
     }
   ]
 }

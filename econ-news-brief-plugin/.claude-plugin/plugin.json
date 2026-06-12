@@ -1,0 +1,9 @@
+{
+  "name": "econ-news-brief-plugin",
+  "description": "경제뉴스 RSS(한국경제·머니투데이·연합인포맥스·아시아경제)를 수집해 기사 CSV와 기업별 호재/악재 보고서를 만들어 Notion 페이지로 올리는 플러그인. 매일 아침 자동 실행에도 사용.",
+  "version": "1.0.0",
+  "author": {
+    "name": "htlee"
+  },
+  "keywords": ["news", "rss", "경제뉴스", "호재악재", "notion", "briefing", "cowork", "automation"]
+}
