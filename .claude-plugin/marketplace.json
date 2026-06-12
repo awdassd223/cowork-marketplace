@@ -1,0 +1,18 @@
+{
+  "name": "htlee-cowork-marketplace",
+  "owner": {
+    "name": "htlee",
+    "email": "htlee@moneymagnet.co.kr"
+  },
+  "metadata": {
+    "description": "htlee의 Cowork 자동화 플러그인 마켓플레이스",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lesson-writer-plugin",
+      "source": "./lesson-writer-plugin",
+      "description": "주제 하나로 구조화된 강의안(학습목표·핵심개념·실습·요약·과제)을 한국어 마크다운으로 작성하는 플러그인"
+    }
+  ]
+}

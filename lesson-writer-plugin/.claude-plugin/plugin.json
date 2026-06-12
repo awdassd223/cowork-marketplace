@@ -1,0 +1,9 @@
+{
+  "name": "lesson-writer-plugin",
+  "description": "주제 하나로 비개발자도 따라올 수 있는 강의안을 자동으로 작성하는 플러그인. 학습목표·핵심개념·실습·요약·과제 구조로 출력한다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shqkel"
+  },
+  "keywords": ["lesson", "강의안", "교육", "cowork", "automation"]
+}

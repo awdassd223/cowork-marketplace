@@ -1,0 +1,15 @@
+# 시스템/임시 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.log
+
+# 비밀값
+.env
+.env.*
+*.key
+*.pem
+secrets*
+*token*
